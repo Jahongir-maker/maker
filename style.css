@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(0, 0, 0);
+    color: aquamarine;
+}
+
+h3{
+    background-color: blue;
+}
+p{
+    font-size: 45px;
+    font-s
+}
+mark{
+    font-size: 22px;
+    
+}
+
+table{
+
+    border-collapse: collapse;
+    border-color: rgb(3, 19, 34);
+}
+i{ 
+    font-size: 35;
+}
